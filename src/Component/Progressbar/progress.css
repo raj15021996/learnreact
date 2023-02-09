@@ -1,0 +1,44 @@
+* {box-sizing: border-box}
+
+.containers {
+  width: 100%;
+  padding: 1rem;
+  margin:1px 50px 50px;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.percentages-90{
+    margin-left: 92%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: large;
+}
+.percentages-80{
+    margin-left: 82%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: large;
+}
+.percentages-65{
+    margin-left: 67%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: large;
+}
+.percentages-60{
+    margin-left: 62%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: large;
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
